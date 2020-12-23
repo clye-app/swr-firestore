@@ -34,7 +34,7 @@
   "homepage": "https://github.com/nandorojo/swr-firestore#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
-    "@firebase/firestore-types": "^1.10.1",
+    "@firebase/firestore-types": "^1.14.0",
     "@react-native-community/bob": "^0.10.1",
     "@react-native-community/eslint-config": "^0.0.7",
     "@release-it/conventional-changelog": "^1.1.0",
@@ -48,7 +48,7 @@
     "eslint-config-nando": "^1.0.9",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
-    "firebase": "^7.14.1",
+    "firebase": "^8.2.1",
     "jest": "^25.1.0",
     "prettier": "^1.19.1",
     "react": "~16.9.0",
